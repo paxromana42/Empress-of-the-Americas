@@ -12,6 +12,10 @@ Obviously, a site like this needs structure to make it more straight forward.
 - Marian Doctrine
 - American Marian Devotions
 - Articles/Blogposts
+  - Travel
+  - Meditation
+  - Updates
+  - Reading Journal
 - About Us:
   - I have a feeling I might need this and include some info on this README.md
 
