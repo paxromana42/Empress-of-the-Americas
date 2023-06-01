@@ -10,7 +10,7 @@ This is a project was formed by taking Bl Carlo Acuti's site as an example; to d
 Obviously, a site like this needs structure to make it more straight forward.
 
 - Marian Doctrine
-- American Marian Deviations
+- American Marian Devotions
 - Articles/Blogposts
 - About Us:
   - I have a feeling I might need this and include some info on this README.md
