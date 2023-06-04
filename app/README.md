@@ -1,10 +1,4 @@
-<style>
-  body {
-    text-align: justify;
-  }
-</style>
-
-# Astro Starter Kit: Minimal
+S# Astro Starter Kit: Minimal
 
 ```
 npm create astro@latest -- --template minimal

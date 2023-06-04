@@ -1,9 +1,3 @@
-<style>
-  body {
-    text-align: justify;
-  }
-</style>
-
 # The Empress of the Americas  
 
 This is a project was formed by taking Bl Carlo Acuti's site as an example; to demonstrate how Mary, as mother of all people, has made herself known in the New World. She, as the Mother of God, brings the Word to the world. As such, she is the centre of the new evangelisation of the world, and will triumph over Satan.
