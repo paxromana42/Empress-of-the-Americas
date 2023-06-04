@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # Astro Starter Kit: Minimal
 
 ```
