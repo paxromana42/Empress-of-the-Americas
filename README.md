@@ -34,4 +34,7 @@ That being said, this is also a very interesting technology demo. Below is the p
 I pray that Bl Carlo and the Virgin of Guadalupe, both who inspired this, allow a modicum of quality to come to this project. Then, may people see the intersession of the Virgin for the sake of bring us to Her Son, our Lord Jesus.
 
 **Viva la Virgine de Guadalupe.**  
-<img src="https://cdn.britannica.com/52/197752-050-821F48D9/Virgin-of-Guadalupe-oil-canvas-collection-Antonio-1720.jpg" alt="The Virgin of Guagalupde" width=200px height=auto/>
+<figure>
+  <img src="https://cdn.britannica.com/52/197752-050-821F48D9/Virgin-of-Guadalupe-oil-canvas-collection-Antonio-1720.jpg" alt="The Virgin of Guagalupde" width=200px height=auto/>
+  <figcaption>Virgen de Guadalupe. Oil Painting by Antonio de Torres, c.1725. In the collection of the Los Angeles County Museum of Art, California. https://www.britannica.com/topic/Our-Lady-of-Guadalupe-patron-saint-of-Mexico#/media/1/629932/230578</figcaption>
+</figure>
